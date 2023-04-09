@@ -1,0 +1,23 @@
+/* devanagari */
+@font-face {
+  font-family: 'hindi';
+  font-style: normal;
+  font-weight: normal;
+  src: url(https://khanzafar44.github.io/kruti_dev_010_regular-webfont.woff2) format('woff2');
+  
+/* latin-ext */
+@font-face {
+  font-family: 'hindi';
+  font-style: normal;
+  font-weight: normal;
+  src: url(https://khanzafar44.github.io/kruti_dev_010_regular-webfont.woff) format('woff');
+  
+}
+/* latin */
+@font-face {
+  font-family: 'hindi';
+  font-style: normal;
+  font-weight: normal;
+  src: url(https://khanzafar44.github.io/kruti_dev_010_regular-webfont.TTF) format('opentype');
+  
+}
